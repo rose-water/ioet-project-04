@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class FadeInOut : MonoBehaviour
+public class Fade_Repeat : MonoBehaviour
 {
     public float fadeInSpeed;
     public float fadeOutSpeed;
